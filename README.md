@@ -1,13 +1,13 @@
 # python-secret-auction
 
-A Python program that collects bid and determines the lighter bidder.
+A Python program that collects bid and determines the highest bidder.
 
 ## Features
 
 - Multiple bidders
-- Stores bid in a dictionary
+- Stores bids in a dictionary
 - Finds the highest bidder
-- Display the winner
+- Displays the winner
 
   ## Concetps Used
 
@@ -19,6 +19,6 @@ A Python program that collects bid and determines the lighter bidder.
  
     ## What I Learned
 
-    - How dictionaries stoer key-value pairs
-    - How to iterate through dictionarie
+    - How dictionaries store key-value pairs
+    - How to iterate through dictionaries
     - How to find the maximum value in a collection
